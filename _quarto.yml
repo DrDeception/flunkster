@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "{{ title }}"   # placeholder, replaced by script
+  title: "flunkster"   # placeholder, replaced by script
   navbar:
     left:
       - text: "Slides"

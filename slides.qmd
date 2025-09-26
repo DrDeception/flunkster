@@ -1,9 +1,9 @@
 ---
-title: "{{ title }} – Slides"
+title: "flunkster – Slides"
 format: revealjs
 ---
 
-# Welcome to {{ title }}
+# Welcome to flunkster
 
 - This is a sample slide
 - Edit me in `slides.qmd`
