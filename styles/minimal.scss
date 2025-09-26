@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Atkinson Hyperlegible", sans-serif;
+$body-bg: #ffffff;
+$body-color: #333;
+
+/*-- scss:rules --*/
+body {
+  font-family: $font-family-sans-serif;
+  background-color: $body-bg;
+  color: $body-color;
+}

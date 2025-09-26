@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "{{ title }}"   # placeholder, replaced by script
+  navbar:
+    left:
+      - text: "Slides"
+        href: slides.html
+
+format:
+  html:
+    theme: styles/default.scss

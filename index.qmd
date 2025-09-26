@@ -1,0 +1,10 @@
+---
+title: "{{ title }}"
+format: html
+---
+
+# {{ title }}
+
+Welcome! This is a Quarto website generated from the template repo.  
+
+<iframe src="slides.html" width="100%" height="600px" frameborder="0"></iframe>

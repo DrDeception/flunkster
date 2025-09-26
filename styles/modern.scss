@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Helvetica Neue", Arial, sans-serif;
+$body-bg: #f9f9f9;
+$body-color: #111;
+$link-color: #0056b3;
+
+/*-- scss:rules --*/
+body {
+  font-family: $font-family-sans-serif;
+  background-color: $body-bg;
+  color: $body-color;
+}
+
+a {
+  color: $link-color;
+}
